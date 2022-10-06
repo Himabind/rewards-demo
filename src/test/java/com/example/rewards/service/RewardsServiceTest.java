@@ -1,6 +1,6 @@
-package com.example.rewards.demo.service;
+package com.example.rewards.service;
 
-import com.example.rewards.demo.entity.Transaction;
+import com.example.rewards.entity.Transaction;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
